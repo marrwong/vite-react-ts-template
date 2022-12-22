@@ -10,10 +10,9 @@
 - [Jest](https://jestjs.io)
 - [Testing Library](https://testing-library.com)
 - [ESLint](https://eslint.org)
+- [Prettier](https://prettier.io/)
+- [Husky](https://typicode.github.io/husky/#/)
 - [SASS](https://sass-lang.com)
 - [Bootstrap](https://getbootstrap.com/)
 - [React-bootstrap](https://react-bootstrap.github.io/)
 - [Axios](https://axios-http.com/)
-
-
-
