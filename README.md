@@ -15,4 +15,3 @@
 - [SASS](https://sass-lang.com)
 - [Bootstrap](https://getbootstrap.com/)
 - [React-bootstrap](https://react-bootstrap.github.io/)
-- [Axios](https://axios-http.com/)
