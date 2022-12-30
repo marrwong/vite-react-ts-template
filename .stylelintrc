@@ -4,7 +4,7 @@
     "max-empty-lines": 4,
     "max-line-length": 80,
     "string-quotes": "single",
-    "function-url-quotes": "single",
+    "function-url-quotes": "always",
     "color-hex-length": "long",
     "media-feature-no-missing-punctuation": null,
     "declaration-colon-newline-after": null,
