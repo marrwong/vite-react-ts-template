@@ -9,7 +9,9 @@ function App() {
     <div className="App">
       <h1>Vite + React + Typescript</h1>
       <div className="card">
-        <Button onClick={() => setCount((count) => count + 1)}>count is {count}</Button>
+        <Button onClick={() => setCount((count) => count + 1)}>
+          count is {count}
+        </Button>
         <p>
           Edit <code>src/App.tsx</code> and save to test Hot Module Reload
         </p>
@@ -17,7 +19,9 @@ function App() {
       <div>
         <p className="tools-used">Tools used:</p>
         <p>
-          ReactJS / Vite / TypeScript / Jest / Testing Library / ESLint / SASS / Bootstrap / React-bootstrap / Axios
+          ReactJS / Vite / Axios / TypeScript / Jest / Testing Library / ESLint
+          /<br />
+          Prettier / Husky / SASS / Stylint / Bootstrap / React-bootstrap
         </p>
       </div>
     </div>
