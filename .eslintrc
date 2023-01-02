@@ -31,7 +31,8 @@
         "allowNumber": false
       }
     ],
-    "react/react-in-jsx-scope": 0
+    "react/react-in-jsx-scope": 0,
+    "no-console": 1
   },
-  "ignorePatterns": ["src/**/*.test.ts", "src/frontend/generated/*"]
+  "ignorePatterns": ["src/*.test.tsx", "src/frontend/generated/*"]
 }
