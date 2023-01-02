@@ -1,19 +1,13 @@
 {
   "name": "vite-react-ts-template",
+  "version": "0.2.0",
   "description": "React and Typescript template scaffolded in Vite",
   "license": "MIT",
   "author": {
     "name": "Marcus Wong",
     "url": "https://github.com/marrwong"
   },
-  "version": "0.1.0",
-  "dependencies": {
-    "axios": "^1.2.1",
-    "bootstrap": "^5.2.3",
-    "react": "^18.2.0",
-    "react-bootstrap": "^2.7.0",
-    "react-dom": "^18.2.0"
-  },
+  "husky": {},
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -23,7 +17,13 @@
     "prettier": "prettier --write **/*.js",
     "prepare": "husky install"
   },
-  "husky": {},
+  "dependencies": {
+    "axios": "^1.2.1",
+    "bootstrap": "^5.2.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
