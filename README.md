@@ -66,10 +66,11 @@ Tools installed are the tools that I currently use the most.
 - [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/)
 - [SASS](https://sass-lang.com)
+- [Stylelint](http://stylelint.io)
 - [Bootstrap](https://getbootstrap.com/)\*
 - [React-bootstrap](https://react-bootstrap.github.io/)\*
 
-* denotes tool is subject to possible removal in future releases.
+* denotes tool is subject to possible removal in future commits.
 
 ## Roadmap/Possible Enhancements
 
