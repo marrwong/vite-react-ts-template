@@ -1,23 +1,27 @@
 {
   "extends": "stylelint-config-standard",
+  "customSyntax": "postcss-scss",
   "rules": {
     "max-empty-lines": 4,
     "max-line-length": 80,
     "string-quotes": "single",
     "function-url-quotes": "always",
     "color-hex-length": "long",
-    "media-feature-no-missing-punctuation": null,
+    "color-no-invalid-hex": true,
     "declaration-colon-newline-after": null,
     "font-family-name-quotes": null,
-    "number-leading-zero": "never",
+    "number-leading-zero": "always",
     "value-list-comma-newline-after": null,
     "max-nesting-depth": 2,
     "block-no-empty": true,
     "comment-no-empty": true,
+    "no-empty-source": true,
     "no-invalid-position-at-import-rule": true,
     "string-no-newline": true,
     "no-irregular-whitespace": true,
     "color-named": "never",
-    "length-zero-no-unit": true
+    "length-zero-no-unit": true,
+    "alpha-value-notation": "number",
+    "color-function-notation": "modern"
   }
 }
