@@ -22,7 +22,13 @@
       }
     }
   },
-  "parserOptions": { "project": ["./tsconfig.json"] },
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
   "rules": {
     "@typescript-eslint/strict-boolean-expressions": [
       2,

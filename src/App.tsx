@@ -21,7 +21,7 @@ function App() {
         <p>
           ReactJS / Vite / Axios / TypeScript / Jest / Testing Library / ESLint
           /<br />
-          Prettier / Husky / SASS / Stylint / Bootstrap / React-bootstrap
+          Prettier / Husky / SASS / Stylelint / Bootstrap / React-bootstrap
         </p>
       </div>
     </div>
