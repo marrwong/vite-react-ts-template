@@ -56,25 +56,18 @@ The netlify.toml file is included to handle redirects so that the app can work o
 
 Tools installed are the tools that I currently use the most.
 
-- [ReactJS](https://reactjs.org)
+- [React](https://reactjs.org)
 - [Vite](https://vitejs.dev)
-- [Axios](https://axios-http.com/)
 - [TypeScript](https://www.typescriptlang.org)
-- [Jest](https://jestjs.io)
 - [Testing Library](https://testing-library.com)
 - [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io/)
 - [Husky](https://typicode.github.io/husky/#/)
 - [SASS](https://sass-lang.com)
 - [Stylelint](http://stylelint.io)
-- [Bootstrap](https://getbootstrap.com/)\*
-- [React-bootstrap](https://react-bootstrap.github.io/)\*
-
-* denotes tool is subject to possible removal in future commits.
 
 ## Roadmap/Possible Enhancements
 
 - [ ] Add lint-staged dependency
+- [ ] Add basic usable css defaults
 - [ ] Update sample page
-- [ ] Move from Bootstrap to Water.css
-- [ ] Move from React-Bootstrap to Mantine

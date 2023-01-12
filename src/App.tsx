@@ -1,17 +1,10 @@
-import { useState } from 'react';
 import './App.scss';
-import { Button } from 'react-bootstrap';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div className="App">
+    <div className="Appa">
       <h1>Vite + React + Typescript</h1>
       <div className="card">
-        <Button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </Button>
         <p>
           Edit <code>src/App.tsx</code> and save to test Hot Module Reload
         </p>
